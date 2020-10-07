@@ -1,0 +1,5 @@
+Main.class
+Patterns\Facade\ComplexClasses\Power.class
+Patterns\Facade\Facade.class
+Patterns\Facade\ComplexClasses\MailAgent.class
+Patterns\Facade\ComplexClasses\Mail.class
