@@ -12,5 +12,4 @@ public class App {
         vectorGraf1.drawVectorSquare();
         vectorGraf1.drawVectorRound();
     }
-
 }
